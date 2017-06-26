@@ -1,0 +1,3 @@
+﻿Syntax:
+
+CopyFromList inputFile targetFolder
